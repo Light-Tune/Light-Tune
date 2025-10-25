@@ -108,7 +108,9 @@
 ## 📄 **CODE EDITOR & IDES**
 
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
+<br />
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")][repo]
+<br />
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
 <!-- [![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")][repo] -->
@@ -130,7 +132,9 @@
 
 ## ⭕ **OPERATING SYSTEMS**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br />
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+<br />
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 <!-- [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 
